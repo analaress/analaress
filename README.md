@@ -1,12 +1,10 @@
 # Olá! Me chamo **Ana Laressa Ocker** 👋
 
----
 
 ## 🎯 Visão Geral
 
 Sou uma futura engenheira de software com foco em **desenvolvimento Web Backend**.
 
----
 
 ### 💡 Habilidades Técnicas
 
@@ -20,7 +18,6 @@ Uma visão das ferramentas e tecnologias que utilizo para transformar ideias em 
 | **🏗️ Infraestrutura** | Docker, AWS (EC2, S3), CI/CD |
 | **🔑 Segurança** | JWT, OAuth2 |
 
----
 
 ### 🛠️ Tecnologias em Destaque
 
