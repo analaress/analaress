@@ -13,7 +13,7 @@ Uma visão das ferramentas e tecnologias que utilizo para transformar ideias em 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **🚀 Linguagens** | Java, Python, JavaScript, TypeScript |
-| **🛠️ Frameworks & ORMs** | Spring Boot, Django, React |
+| **🛠️ Frameworks & Libs** | Spring Boot, Django, React |
 | **🗄️ Banco de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
 | **🏗️ Infraestrutura** | Docker, AWS (EC2, S3), CI/CD |
 | **🔑 Segurança** | JWT, OAuth2 |
